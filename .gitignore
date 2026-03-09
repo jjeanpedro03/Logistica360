@@ -1,0 +1,29 @@
+# Dependências (Nunca envie essa pasta para o Git)
+node_modules/
+
+# Arquivos gerados pela transpilação (O código-fonte é o .ts)
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Pasta de distribuição (caso você use outDir no tsconfig)
+dist/
+build/
+
+# Logs de erro e de sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Configurações de ambiente / Segredos (Caso use .env futuramente)
+.env
+.env.local
+
+# Arquivos do VS Code ou outros editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
