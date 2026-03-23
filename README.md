@@ -1,11 +1,6 @@
 <h1 align="center">📦 Logística 360 — Sistema CLI de Gestão de Estoque</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-concluído-blue" />
-  <img src="https://img.shields.io/badge/Node.js-18+-green" />
-</p>
-
-<p align="center">
   Sistema de gerenciamento de fluxo de estoque via linha de comando (CLI), focado em eficiência, tipagem estrita e integridade de dados.
 </p>
 
