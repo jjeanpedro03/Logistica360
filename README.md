@@ -53,10 +53,10 @@ Para rodar o projeto em sua máquina local, utilize os comandos abaixo no seu te
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/seu-usuario/Logistica-360.git
+git clone [https://github.com/jjeanpedro03/Logistica360.git](https://github.com/jjeanpedro03/Logistica360.git)
 
 # 2. Acessar o diretório e instalar as dependências
-cd Logistica-360 && npm install
+cd Logistica360 && npm install
 
 # 3. Iniciar a aplicação
 npm start
