@@ -1,7 +1,7 @@
-<h1 align="center">📦 Logística 360 — Sistema CLI de Gestão de Estoque</h1>
+<h1 align="center">📦 Logística 360 — Sistema CLI de Gestão de Estoque com TypeScript</h1>
 
 <p align="center">
-  Sistema de gerenciamento de fluxo de estoque via linha de comando (CLI), focado em eficiência, tipagem estrita e integridade de dados.
+  Sistema de gerenciamento de fluxo de estoque via linha de comando (CLI), desenvolvido com foco em integridade de dados, tipagem estrita e eficiência no processamento.
 </p>
 
 <p align="center">
